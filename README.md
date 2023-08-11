@@ -2,8 +2,6 @@
 
 I'm a student at UFRJ currently focusing on improving my front-end developer skills and doing my part to ~maybe~ change the world for the better!
 
-------
-
 <div align="center">
     <h3>Tech Stack</h3>
     <a href="https://www.figma.com/"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25"/></a>
