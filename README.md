@@ -6,7 +6,6 @@
 
 <div align="center">
     <h1>Tech Stack</h1>
-
     <a href="https://www.figma.com/"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25"/></a>
     <a href="https://nodejs.org/"><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/></a>
     <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/></a>
