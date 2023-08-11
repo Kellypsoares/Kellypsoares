@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm a student at UFRJ currently focusing on improving my front-end developer skills and doing my part to ~maybe~ change the world for the better!
+👩‍💻 I'm a student at UFRJ who love science and innovation.
+<br>
+🌱 Currently focusing on improving my front-end developer skills and doing my part to change the world for the better.
 
-<div align="center">
+<div >
     <h3>Tech Stack</h3>
     <a href="https://www.figma.com/"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25"/></a>
     <a href="http://html5.com/"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/></a>
@@ -16,7 +18,7 @@ I'm a student at UFRJ currently focusing on improving my front-end developer ski
 
 
 
-<div align="center">
+<div>
     <h3>Contact</h3>
     <a href="https://www.linkedin.com/in/kelly-pinheiro-soares-225352231/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
 </div>
