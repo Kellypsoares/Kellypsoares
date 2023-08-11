@@ -12,7 +12,6 @@
      <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/></a>
     <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/></a>
     <a href="https://flask.palletsprojects.com/"><img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/></a>
-    <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" height="25"/></a>
     
 </div>
 
