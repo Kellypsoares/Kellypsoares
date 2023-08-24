@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👩‍💻 I'm a student at UFRJ who love science and innovation.
+👩‍💻 I'm a student at UFRJ who loves technology and innovation.
 <br>
 🌱 Currently focusing on improving my front-end developer skills and doing my part to change the world for the better.
 
