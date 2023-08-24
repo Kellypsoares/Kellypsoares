@@ -21,7 +21,7 @@
 
 <div>
     <h3>Contact</h3>
-    <a href="https://www.linkedin.com/in/kelly-pinheiro-soares-225352231/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
+    <a href="https://www.linkedin.com/in/kellypsoares/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
 </div>
 
 <!--
